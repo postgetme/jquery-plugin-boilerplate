@@ -1,0 +1,4 @@
+- 兼容AMD、CommonJS、浏览器环境
+- 支持两种调用形式：myplugin({args}) 或 myplugin('cmd1', args)
+- 支持noConflict
+- 支持data-role自动调用插件
